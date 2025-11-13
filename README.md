@@ -1,4 +1,4 @@
-# PyGame Game
+# PyRunner
 
 ## Pygame?
 [Pygame](https://github.com/pygame/pygame) is a python library that acts as a 2d game engine. It gives you all the tools to render things and place them on the screen and you do the rest. 
